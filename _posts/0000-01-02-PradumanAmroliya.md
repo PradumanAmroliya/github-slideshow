@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I am Praduman amroliya
+praduman amroliya is a good man
 use the  left arrow to go back!
